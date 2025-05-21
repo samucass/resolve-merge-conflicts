@@ -1,5 +1,5 @@
 <header>
-
+alteracao com os dois
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -22,6 +22,7 @@ _Learn why conflicts happen and how to resolve them._
 -->
 
 ## Step 1: Create a pull request
+<<<<<<< HEAD
 
 _Welcome to "Managing Merge Conflicts"! :wave:_
 
@@ -29,6 +30,15 @@ _Welcome to "Managing Merge Conflicts"! :wave:_
 
 ### :keyboard: Activity: Create a pull request
 
+=======
+
+_Welcome to "Managing Merge Conflicts"! :wave:_
+
+**What is a _merge conflict_?**: A **merge conflict** occurs when changes are made to the same part of the same file on two different branches. You usually find out about conflicts in a pull request so let's start by creating one.
+
+### :keyboard: Activity: Create a pull request
+
+>>>>>>> my-resume
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. We made a small change to a file in the repository in the `my-resume` branch.
 1. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) setting `my-resume` as the head branch and `main` as the base branch. You can enter `Resolving merge conflicts` for the pull request title and body.
